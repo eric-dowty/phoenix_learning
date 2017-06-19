@@ -2,14 +2,14 @@
 
 ## React
 #### Setup
-* Initialize the app
-```
-npm init
-```
-* Configure webpack to run node server (package.json), add to scripts
-```
-"start": "node server.js",
-```
+1. Initialize the app
+   ```
+   npm init
+   ```
+2. Configure webpack to run node server (package.json), add to scripts
+   ```
+   "start": "node server.js", 
+   ```
 * Add Babel as dev dependency
 ```
 sudo npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0
