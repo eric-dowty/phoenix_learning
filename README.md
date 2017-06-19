@@ -8,7 +8,7 @@
    ```
 2. Configure webpack to run node server (package.json), add to scripts
    ```
-   "start": "node server.js", 
+   "start": "node server.js",
    ```
 3. Add Babel as dev dependency
    ```
@@ -28,7 +28,23 @@
    ```
    sudo npm install --save react react-dom
    ```
-
+7. Create webpack config file (check commit for contents)
+   ```
+   touch webpack.config.js
+   ```
+8. Create server.js file (check commit for contents)
+   ```
+   touch server.js
+   ```
+9. Create index.html file (check commit for contents)
+   ```
+   touch index.html
+   ```
+10. Create index.js file (check commit for contents)
+   ```
+   mkdir app
+   touch app/index.js
+   ```
 
 
 ## Phoenix
