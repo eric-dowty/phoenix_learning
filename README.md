@@ -22,7 +22,7 @@
    ```
 5. Add webpack and webpack dev server as dependencies
    ```
-   sudo npm install --save-dev webpack@1.x webpack-dev-server@1.x
+   sudo npm install --save-dev webpack@1.x webpack-dev-server@1.x prr
    ```
 6. Add React as webpack dependency
    ```
