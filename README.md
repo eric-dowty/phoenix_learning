@@ -53,3 +53,7 @@
    ```  
    mix phoenix.new phoenix-chat-api --app phoenix_chat --module PhoenixChat --no-brunch
    ```
+
+## Atom
+#### Shortcuts
+1. CTRL + 0   -> switch focus tree/workspace
